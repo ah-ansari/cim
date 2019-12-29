@@ -1,7 +1,6 @@
 # cim
 Source code of the implementations for the paper:
-
-**Competitive Influence Maximization: Integrating Budget Allocation and Seed Selection**
+**"Competitive Influence Maximization: Integrating Budget Allocation and Seed Selection"**
 
 ## Description:
 The repository consists of:
